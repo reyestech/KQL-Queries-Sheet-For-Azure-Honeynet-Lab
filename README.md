@@ -1,0 +1,1 @@
+# KQL-Queries-Sheet-For-Azure-Honeynet-Lab
