@@ -1,6 +1,4 @@
 
-# KQL-Queries-Sheet-For-Azure-Honeynet-Lab
-
 # KQL-Queries-Sheet-For-Azure-Honeynet-trap
 
 A portfolio-focused KQL query sheet built for my **Azure Honeynet / SOC Lab**, designed to help validate telemetry, hunt threats, and explain how Sentinel/Log Analytics detections are constructed.
